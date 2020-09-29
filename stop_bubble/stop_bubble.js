@@ -5,5 +5,7 @@ function stopBubble(event) {
     event.cancelBubble = true;
   }
 }
-
+function get() {
+  return 
+}
 //阻止事件冒泡
